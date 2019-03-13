@@ -7,14 +7,15 @@ The horn can be used on a car, scooter, cycle and motorbike.
 ## Electronic Components
 | Qty | Component | Buy |
 | ------------- | ------------- | ------------- |
-| 1 | 555 |[AliExpress](http://s.click.aliexpress.com/e/sCv1ACC) |
-| 1 | 390Ω, 620Ω, 910Ω, 1.1KΩ, 1.3KΩ, 1.5K, 2KΩ, 6.2KΩ |[AliExpress](http://s.click.aliexpress.com/e/bh4eqrQs) |
-| 2 | 1KΩ Resistor |[AliExpress](http://s.click.aliexpress.com/e/bh4eqrQs) |
-| 8 | Tactile Momentary Push Buttons |[AliExpress](http://s.click.aliexpress.com/e/c77Ajrpq) |
+| 1 | IC 555 |[AliExpress](http://s.click.aliexpress.com/e/sCv1ACC) |
+| 1 | IC LM386 |[AliExpress](http://s.click.aliexpress.com/e/c1pixqXe) |
+| 2 | IC Holder |[AliExpress](http://s.click.aliexpress.com/e/cHvnfsrA) |
+| 1 | 10Ω 1KΩ 2KΩ Resistor |[AliExpress](http://s.click.aliexpress.com/e/bh4eqrQs) |
+| 3 | 10KΩ Potentiometer |[AliExpress](http://s.click.aliexpress.com/e/bN0jkp8y) |
+| 1 | Tactile Momentary Push Buttons |[AliExpress](http://s.click.aliexpress.com/e/c77Ajrpq) |
 | 1 | 5mm LED |[AliExpress](http://s.click.aliexpress.com/e/wuFpLXS) |
-| 1 | 0.1uF Capacitor |[AliExpress](http://s.click.aliexpress.com/e/c9FHzl5W) |
-| 1 | 10nF Capacitor |[AliExpress](http://s.click.aliexpress.com/e/byQG0DZW) |
-| 2 | 2 Pin Screw Terminal |[AliExpress](http://s.click.aliexpress.com/e/xYUweh2) |
+| 1 | 0.1uF 10uF 100uF 220uF Capacitor |[AliExpress](http://s.click.aliexpress.com/e/c9FHzl5W) |
+| 1 | 10nF 47nF 100nf Capacitor |[AliExpress](http://s.click.aliexpress.com/e/SX7eHuG) |
 | 1 | Speaker |[AliExpress](http://s.click.aliexpress.com/e/brMJh46c) |
 | 1 | 9V Battery Holder |[AliExpress](http://s.click.aliexpress.com/e/c3jbp72Y) |
 | 1 | 9V Battery |[AliExpress](http://s.click.aliexpress.com/e/bbDirGHE) |
