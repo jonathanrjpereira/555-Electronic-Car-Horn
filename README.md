@@ -2,7 +2,10 @@
 The LM555 generates an electronic horn signal which is amplified by an LM386.
 The horn can be used on a car, scooter, cycle and motorbike.
 
-**Order PCB:**
+**Full Video:**
+[![Musical Bell](https://img.youtube.com/vi/yDZJ3qElCCo/maxresdefault.jpg)](https://youtu.be/yDZJ3qElCCo)
+
+**Order PCB:**  [PCBWay](https://bit.ly/2VrASCW)
 
 ## Electronic Components
 | Qty | Component | Buy |
@@ -27,6 +30,9 @@ The horn can be used on a car, scooter, cycle and motorbike.
 |Soldering Iron|[AliExpress](http://s.click.aliexpress.com/e/E83bSJI) |
 |Soldering Wire|[AliExpress](http://s.click.aliexpress.com/e/PdhB0nm) |
 |Mini PCB Hand Drill + Bits|[AliExpress](http://s.click.aliexpress.com/e/b93tomjI) |
+|Wire Cutter|[AliExpress](http://s.click.aliexpress.com/e/bHFL9vLi) |
+|Wire Stripper|[AliExpress](http://s.click.aliexpress.com/e/4yJWedw) |
+|Soldering Helping Hands|[AliExpress](http://s.click.aliexpress.com/e/cAQ2StNm) |
 
 ## Working
 **LM555/NE555:**
