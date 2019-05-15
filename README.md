@@ -15,7 +15,7 @@ The horn can be used on a car, scooter, cycle and motorbike.
 | 1 | Tactile Momentary Push Buttons |[AliExpress](http://s.click.aliexpress.com/e/c77Ajrpq) |
 | 1 | 5mm LED |[AliExpress](http://s.click.aliexpress.com/e/wuFpLXS) |
 | 1 | 0.1uF 10uF 100uF 220uF Capacitor |[AliExpress](http://s.click.aliexpress.com/e/c9FHzl5W) |
-| 1 | 10nF 47nF 100nf Capacitor |[AliExpress](http://s.click.aliexpress.com/e/SX7eHuG) |
+| 1 | 10nF 47nF 0.1uF Capacitor |[AliExpress](http://s.click.aliexpress.com/e/SX7eHuG) |
 | 1 | Speaker |[AliExpress](http://s.click.aliexpress.com/e/brMJh46c) |
 | 1 | 9V Battery Holder |[AliExpress](http://s.click.aliexpress.com/e/c3jbp72Y) |
 | 1 | 9V Battery |[AliExpress](http://s.click.aliexpress.com/e/bbDirGHE) |
